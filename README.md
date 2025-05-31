@@ -3,12 +3,11 @@ Resolvedor de labirintos por meio de BackTracking, com duas lógicas diferentes,
 O projeto lê arquivos no seguinte formato:
 
 ## 📥 Formato do Arquivo de Entrada
-<quantidade de labirintos>
-<largura> <altura>
-<labirinto 1>
-<largura> <altura>
-<labirinto 2>
-...
+quantidade de labirintos<br>
+largura altura<br>
+labirinto 1<br>
+largura altura<br>
+labirinto 2<br>
 
  
 ## Exemplo
