@@ -5,7 +5,7 @@ O projeto lê arquivos no seguinte formato:
 *quantidade de labirintos a serem resolvidos*
 *largura do labirinto* *Altura do labirinto*
 *labirinto*
-
+ 
 #Exemplo
 2
 4 3
